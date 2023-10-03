@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap");
+
+body {
+  width: auto;
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(135deg, #d3d3d369 10%, #ffffff6b 100%);
+  font-family: "PT Sans Narrow", sans-serif;
+}
+
+

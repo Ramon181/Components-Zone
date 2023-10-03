@@ -1,0 +1,18 @@
+.site-hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    .contain-hero{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        flex-direction: column;
+        text-align: center;
+        h1{
+            font-size: 3rem;
+            font-weight: bold;
+        }
+    }
+}
